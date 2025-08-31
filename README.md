@@ -8,6 +8,22 @@ Forecasting wind power generation is crucial for optimizing renewable energy int
 - 🌍 **Impact:** Helps grid operators balance supply-demand  
 - 🧠 **Approach:** Data preprocessing, feature engineering, ML & DL models
   
+## 📦 Requirements  
+- Python >= 3.8  
+- pandas, numpy, scikit-learn  
+- matplotlib, seaborn  
+- TensorFlow / PyTorch  
+
+Install everything via:  
+```bash
+pip install -r requirements.txt
+
+## 🌱 Future Work  
+- Incorporate **real-time weather APIs**  
+- Explore **hybrid ML + physics-informed models**  
+- Deploy via **FastAPI / Streamlit dashboard**  
+
+  
 ## ⚙️ Installation  
 Clone the repository:  
 ```bash
